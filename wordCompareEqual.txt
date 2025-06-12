@@ -1,0 +1,211 @@
+=== Speaker: MaleVoice1 | Scenario: equal | Noise dB: equal | SPL: N/A | WER: 1.6404 ===
+
+GT: selamat pagi rekan-rekan semua pertama-tama saya ingin mengucapkan terima kasih atas waktu dan kesempatan yang diberikan kepada saya untuk membawakan presentasi
+PR: samat bagi rn rana sa seba baa bu dan seebaergaman kerjaian ya yang ecakan ri ma kasi rimarasi ae su ca aseaan dai beriranikeerariraa iara sa ia kberdicara gun ra mawawakan resentasi
+pada hari ini pada 
+GT: rapat kali
+PR: semat inini aeda a ya an yan menyang mai kari andan anbaka iaa meganaai kaperpera samasi dijlial gan kerdayaam kon tada menla aaralan a menjil ondasianangan atayala damenala kari a sanakaaya yan aa aan proruk dif dan saribadi yang kita ketakui bersamaa ten tut esa kan iba uaaan si ra ja ra kan hanyasaaan ja a sa kantuga teknolagia menjaai arkam bir sadiateariuga bayi mana daan n a eba san tersebuperilamebawa dan tanmi jasasant bisi seorang perrsadan jara bisnis dijaia eria bukan hal ya digan kaeren mabeberapasa memiti setraala i disdaya orsera sasi karenabadan maapu mangaa ri adageraan ndanan cepa dan repurasa dan sedi der a sekara ianluluaa ole di gi tali sasi ijan an saya memba gi pembaasan imni bergbiaa dedaral bataya kormasi dibsama pemahaman diaa raklalan a ia a iyang
+ini 
+GT: saya
+PR: ersa soloo yn deri lar e abis dan tidak ei sayang sering terjadi mengenaya ijitangaru sareada prinkungan kerjat indan terakhia uku baaya megada sa mempaowaisi daya kerja a bea a a aruing milgi mau ean ora saasi ang tua bayi ta melalui meala ma i gdega edika eriln kal lais ajara adar an casa tersn eti sakerja adaa i ri e di al dan karanilai mala yang mean daa man se anraan perilakuln bi ba yak di liengua rin jein ormasi ini mencaau taudura lakukanu meyawayan mela bia ai ta di si taisiplin kerja sama jikabise saraakada hadi a dan dura y lai di cai talasan rakan ajawa kita a ka ar adal kedua eticaan meru bisala sanyn au li seua lanu panulan berbaauoda e dalerusa an dala otera io a sa aruiaterer min bia a didakan samula a bdi kasi amajunkaharn ca kan saweangan atan apa ilatan tori mena cemana ga penda pataesia n adan mardiayanmiam bil djilan sejara sebiam pa diala pamerumaasi pemasara dua ataar jema liakain bebera dwarilai toh kom eret perilaku yang menjeu san per dikinmgi ja mung gi kan gita kunbisal yan jaan kan b aiawan ayanla menla wi sisalahan atad ber jadi keea jiala a ian i dak danyaun kan kadegran angan besar taan ersoraraa ian selalu menya pa ada ma si beladina bean saaan di da eran tidak memani pulasi da eli teraa tari ai aya di hadatan tasabanyak pelaku pusaha iyang u amialr udiiak i bisa muaul dala beraturan masi mena an san perrjaan an man ai barkan bosa gunakan atau ru mor yang merusauluilagasai raka karjaoleh karnmadriwaubu denga ulura deya buga pbili ariau dinyala gunakan kaaa a anto i anua berpelai a bara di agar pelakaya kaeaa n la ku didak era yangma u yan diaa ari ddaladian a blumra dea tausaa diriga asiaan sa jara o di marustru inila yang dalan kadawastaya ana ji ani gaarka satustudakan mekeaang budaya kerjaa yan sadang kerasia mendanan bersa ma dian sulit di a ra katu ek sepren semuanisajaa mari tukitabala sdan pa yan eahada bingungan kerja bot ingguan kerja yang a melalin dilaitia da pe tiaaa daran mela aran da san alia ayamn ca taa li dari ba iuaran haaan selelga arjasama dingan meraarasa aman han ya man lalluida di ha dai sebaliknya ita sengaaa dkaerarjan kapai karrarin an
+akan 
+GT: membahas mengenai transformasi digital dalam konteks bisnis skala kecil dan menengah atau yang kita kenal
+PR: unculdi da den ean kan ba yakra ian tarna da ka rasi didaa di ulakaang bi aleh masarakenkaroa wai semangat kerjati sejar elahaitur viturnya cukup sadar salna on ta damun aika a da rakan yang sara i mawin kreuitu ataidisedang melawara atas kerja ti juula meangui dan ddan ia an gota lainnya damara aka di bumaa satarsia di ugeles melada unubekeria materhuia sa melalui pskrip ini tantu sa ada san isadia asasi kembadi deran aji gani sasialeh pemilik asaha baaimana ara ma mei uwai muaya karmijai ara edisa memban tubelakua a caraya maen ua terma kan ha s dbiulai daran ia an ditan yang baik sedia daranina kerba yan can cela eyaalah dala calasia alasi peran iang kitaru kan karenal tita bialan lai
+dengan 
+GT: sebutan umkm seperti yang kita ketahui bersama saat ini dunia sedang bergerak sangat cepat teknologi berkembang hampir setiap hari dan perubahan tersebut membawa dampak yang sangat besar terhadap cara bisnis dijalankan bahkan beberapa sektor bisnis mengalami disruption karena tidak mampu beradaptasi dengan cepat terhadap perubahan yang dibawa oleh digitalisasi berbicara
+PR: mnjagaraan kasi yang kdetaubi dara s panmelola kan ke uaha dawa idaa bi orang lain siai mencahur usan dueriala yang mendaalaar ka kan dginan insargrai mau dmenda mamari di kara basan elapang cadpe di laporan mingkua dagaan di satou mnej sualisa ig miagdaran ban meliaran mereka ara seainal haria juka tetaa penmgula baryassah menjada se jara ri dan tebang bili ida l gadalaalakar keji a turah damun bisan selai di awal darai a ida lisasi yan lebiwusa
+tentang 
+GT: transformasi digital ada beberapa hal utama yang ingin saya soroti hari ini pertama mengenai digital presence saat ini tidak cukup hanya mengandalkan toko fisik umkm harus memiliki online presence yang kuat baik melalui media sosial marketplace maupun website resmi mengapa ini penting? karena konsumen zaman sekarang lebih banyak mencari informasi atau melakukan pembelian melalui platform digital jika bisnis kita tidak hadir di dunia digital maka kita akan tertinggal kedua kita perlu bicara soal penggunaan tools berbasis teknologi dalam operasional bisnis misalnya penggunaan aplikasi untuk pencatatan keuangan inventory management crm (customer relationship management) sampai dengan otomatisasi pemasaran atau marketing automation tools seperti ini memungkinkan kita untuk menjalankan bisnis dengan lebih efisien data-driven dan scalable namun ada tantangan besar yang kita hadapi terutama untuk pelaku umkm di daerah yaitu literasi digital banyak pelaku usaha yang belum familiar dengan tools digital bahkan masih mengandalkan pencatatan manual menggunakan buku tulis oleh karena itu perlu adanya capacity building atau pelatihan yang berkelanjutan agar pelaku umkm tidak hanya mampu mengadopsi teknologi tapi juga menggunakannya secara optimal dalam konteks ini saya ingin mengangkat satu studi kasus kecil yang sedang saya kembangkan bersama tim yaitu expense monitoring bot untuk pelaku umkm bot ini bekerja melalui platform telegram dan memungkinkan pengguna mencatat pengeluaran harian mereka dengan mudah hanya melalui ponsel kita sengaja memilih telegram karena ringan tidak memakan banyak data dan relatif mudah digunakan oleh masyarakat awam fitur-fiturnya cukup sederhana namun efektif: ada input untuk jenis pengeluaran jumlah uang dan tanggal data akan otomatis tersimpan di google spreadsheet yang terhubung melalui apps script dan bisa diakses kembali kapan saja oleh pemilik usaha dengan fitur ini kami berharap bisa membantu pelaku umkm untuk memiliki habit pencatatan yang baik karena kebanyakan masalah dalam bisnis kecil itu bukan karena penjualannya kurang tetapi karena pengelolaan keuangannya tidak rapi selain itu kami juga sedang menjajaki kemungkinan integrasi dengan fitur-fitur tambahan seperti laporan mingguan otomatis visualisasi data pengeluaran serta pengingat harian agar pengguna terbiasa mencatat secara rutin ini adalah langkah kecil namun bisa menjadi awal dari digitalisasi yang lebih besar dari sisi business model solusi seperti ini bisa dikembangkan menjadi layanan berbasis freemium di tahap awal semua fitur dasar bisa digunakan secara gratis namun untuk fitur tambahan seperti laporan keuangan otomatis atau integrasi dengan layanan pembayaran pengguna
+PR: e ti takerja perludarasi ai bisni semlaar semuaru yan sa digili emaama yan taman menjeda yarasasia bat aan me mangunan budaya i ia sailaalasi di sem pituara sar persajinal kan seraeranyan di aturan yang dia mu tokagaa basan seperdilaorata uangan lebi kepada mamidi sibadiau intenga besi kap bendilan layananm siayaan didak adaan duna
+bisa membayar 
+GT: biaya langganan bulanan yang sangat terjangkau sekarang
+PR: iaaa la pondasian daraera caya an salat dan kapercaya an adalah sakara mng saian ben yileiakasebagialan i ulubea tasi de nologi ibai dengan talisaa dber dam pa bundra da e isiansi dan pengam bilan lot uderi
+saya 
+GT: ingin membahas bagaimana implementasi teknologi ini bisa berdampak pada efisiensi dan pengambilan keputusan bisnis
+PR: ialamisiya kerja yang peringan ada dadara yanlara anra
+dengan 
+GT: adanya data yang terekam dengan rapi pelaku usaha bisa melakukan analisis sederhana:
+PR: dra kidang pedan sanda bi lala bi kankalarisi sedarhana
+di mana mereka 
+GT: terlalu banyak menghabiskan uang? apakah
+PR: yan lalu gaa yn dakan iakan bera yan tegu apakadan iai larasio a ya seuga sasua tita bukarahnya agarlu memelai ran
+biaya 
+GT: operasionalnya sudah sesuai? apakah perlu menekan biaya tertentu atau menambah stok barang yang lebih laku? ini yang
+PR: tertatui agauya mengailarsasiaran ki ag rogaraya budaya yanr jayang saat dengan dan ak terja bdsi sa iakin ia di bensus waole yang bidau dindan aia ka ya bisadian aaele ka sayara kraran dengan a haurer mahal sekara najabeilaaran bahkan a oa hisaara a lon a bisa a di bahan dasalan maa mere kaa di ekaari dangadaja sa linkungan kerja
+kita 
+GT: sebut dengan data-driven decision making sesuatu yang dulu mungkin hanya bisa dilakukan oleh perusahaan besar dengan software mahal sekarang bisa dilakukan bahkan oleh warung kelontong di desa selama mereka dibekali dengan tools yang tepat kita tentu tidak bisa melupakan peran pemerintah dan institusi pendidikan dalam mendorong transformasi digital ini harus
+PR: sebaitempat yang tatendaru a ya eri saa melupaka berlalu bermarinata dan dan i i alin mendi di aran d dala mendurong tern larasai si di tara i adian bapatibuar
+ada 
+GT: kolaborasi antara sektor publik dan swasta serta perguruan
+PR: kela burasijikada tan sapan buaulisan sas ta saya searta berguruan
+tinggi untuk 
+GT: memberikan edukasi akses teknologi dan pendampingan kepada pelaku umkm di universitas pertamina misalnya banyak
+PR: memerikan e laasi baarasesteuulo a seluruhdan perian bi ya kapada elakuu animaasi ataskesmpatan yang di berikan keparsa a ni ersi ra sipearla na masal aa padi banya
+sekali 
+GT: potensi yang
+PR: potan adai yan aa nini ma saya ini menyang ma sian epan dangan sa yalarama edi kan berasa dall durusai din kumgan kerja e ni da emenla kaha ni menjedisi ndasi ta asi dalai jega madean an wasanaarjaya sahat ita
+bisa 
+GT: dikembangkan oleh mahasiswa terutama yang berasal
+PR: merdo ang kola burasari i arasairusan unda tatu bua tahulasina ja yanui saja ra kan ana saa menyan saasermerai belagedau menjapaitaunyadia kepadaasia larbayi mana dianmenja kasi ka tela haridi k di selalung jawab sebaga seoang prapriu tup
+dari 
+GT: jurusan teknik informatika sistem informasi dan juga manajemen bisnis kita bisa mendorong kolaborasi lintas jurusan untuk membuat solusi nyata yang bisa diterapkan di lapangan seperti program pengabdian kepada masyarakat yang telah diikuti sebelumnya penutup dari saya transformasi digital bukan soal menjadi canggih tetapi tentang bagaimana teknologi bisa membuat bisnis menjadi lebih efektif efisien
+PR: saa edia kera a masan ala aai sai kan aal menjaya caen d hitra tetauda genisaasang baga man na da nologi manga sa kerubela sua bisnizan ajtaisi ile dbi si asara i sruruha aisia
+dan mudah 
+GT: diakses kita harus mulai dari hal-hal sederhana dan terus belajar dari data yang kita miliki karena seperti yang kita tahu dalam
+PR: ia asaya membagi pembahasan ian a rijala laiirairakaaial sedarhana lama da mara man easa tandari datara yaa i ta mili kedua cota prilara ea sedardia ar ia yang sering terjala
+dunia 
+GT: bisnis saat ini data is the new oil siapa yang menguasai data dan tahu bagaimana memanfaatkannya
+PR: bisni sajan pengarua ta adadin kungai serai dan i akhiai baag a iasa meba sa an uaaya kerja yangda eta a bagi y dn mema a puran iyan din sasi ki
+dialah 
+GT: yang
+PR: yan
+akan 
+GT: bertahan terima kasih atas perhatiannya jika ada pertanyaan atau diskusi saya persilakan salam
+PR: bertahartama apan dimaksud dengan bremarasi saan a hadianya secara saradaka anya an ati seuai adala perinaya muaa kdan dilainila yang aaya i peduman
+
+
+Correct words: 28 / 728 (3.85%)
+
+=== Speaker: MaleVoice2 | Scenario: equal | Noise dB: equal | SPL: N/A | WER: 1.4354 ===
+selamat pagi 
+GT: rekan-rekan semua pertama-tama saya ingin mengucapkan terima kasih atas waktu dan kesempatan yang diberikan kepada saya untuk membawakan presentasi pada hari ini pada
+PR: rakan kan semuai baa gibu pelama sa maa rakasai yan ua kan ri makasi adas watu negiakas ikaeri san serasaya yang di boern bawa man sasaniasi padararir i cara dara eraba pa da
+rapat kali ini saya 
+INS: akran esebakan s belanasaa si mel aasilai giangra an yangan salaan dan sa s ni sekala pe sal da a a di linada yang kerica kenal dangaaa tagawan eraya ni menji di fondasi antrdi an kita kerala i mensa
+akan 
+GT: membahas mengenai transformasi digital dalam konteks bisnis skala kecil dan menengah atau yang kita kenal dengan sebutan umkm seperti yang kita ketahui bersama saat ini
+PR: suasasaria ha
+dunia sedang 
+GT: bergerak sangat cepat teknologi berkembang hampir setiap
+PR: begira sangan sala mekharja tenologi berkembagi dar suak sari a dan probaha dersi kojia bawara mebasian rangan besar antuga ada cara bisau biala ea ahkan lebi jubelera ba nyalr dasenisi kalami i sraksian eelakana ti dak ena gujaara tasi dama seoa perar ada erubahan yang di bawa oleh di a tari sari klan l yang bisa dibebidara tenta teras mermaa mimenduta ltra ada bebera aia usa ma yang ingin ba ia me di
+hari 
+INS: manga ru di kera ma sungan mengenai da rakuisaasi insdi dusi tin selurukidak cukup hanyan menanalkan tkovisi ijin an sa an baaya pembaa sarusmemili kidalana bea an sian gian bayang enau sosial eian dasalar karen tari s sidasera au a set rasia t menalai i anbi
+dan 
+DEL: perubahan tersebut membawa dampak yang sangat besar terhadap cara bisnis dijalankan bahkan beberapa sektor bisnis mengalami disruption karena
+tidak 
+GT: mampu beradaptasi dengan cepat terhadap perubahan yang dibawa oleh digitalisasi berbicara tentang transformasi digital ada beberapa hal utama yang ingin saya soroti hari ini pertama mengenai digital presence saat ini tidak cukup hanya mengandalkan toko fisik umkm harus memiliki online presence yang kuat baik melalui media sosial marketplace maupun website resmi mengapa ini penting? karena konsumen zaman sekarang
+PR: n asu man ya men sekara
+lebih 
+GT: banyak mencari informasi atau melakukan pembelian melalui platform digital jika bisnis kita tidak hadir di dunia digital maka kita akan tertinggal kedua
+PR: ba ya alan cari inpengela si er hada a te melan kantelan dgian melalai pel san da i al bagia meni a bi an sangiarta dahmaraa di duga di di tal ber idiaa di dita kanauginga ortinsasctkedua
+kita perlu 
+GT: bicara soal penggunaan tools berbasis teknologi
+PR: bicarasaa menban nyeolesika perrbasi senologi
+dalam 
+GT: operasional
+PR: a s dana l
+bisnis 
+GT: misalnya penggunaan aplikasi
+PR: nisalnya abenguna an mladengerasi yaauntuk benaa ta yan bua an pedumain tantori mere i ma sia rem atau kaseta mar ri sian si kina neuran tansa jaanan oto man disasi da asaran di mar daidi a tumesari a sama tlan sarasa a an kinterna ya ta ea
+untuk 
+GT: pencatatan keuangan inventory management crm (customer relationship management) sampai dengan otomatisasi pemasaran atau marketing automation tools seperti
+PR: menjalan ean asenis danan lebi avisiaya da da uraorn dan sekalebo na muan
+ini 
+GT: memungkinkan kita untuk menjalankan bisnis dengan lebih efisien data-driven
+PR: ada
+dan 
+GT: scalable namun ada tantangan besar yang kita hadapi terutama untuk pelaku umkm di daerah yaitu literasi digital banyak pelaku usaha yang belum familiar dengan tools digital bahkan masih mengandalkan pencatatan manual menggunakan buku tulis oleh karena itu perlu adanya capacity building atau pelatihan yang berkelanjutan agar pelaku umkm
+PR: ea an bisa rean mi ahada kuian buar tama untu lade waya erkan di dayara yaiaui saiaterasi ding enanin da an ba a tela kuusaha yan belam tamadia dalan tusedi iatal di a ba kan masi mengan dalkan peeda rarian man eal kan engunaanaan utuli sia smengambi buoleh arenasi dia pryang lu merada ya kepasi di bual din ke do plt di han iagar tela i an belabearm ela tuaim ka an na
+tidak 
+GT: hanya mampu mengadopsi teknologi tapi
+PR: han yan man siru mengado si ternl i yang kadapi
+juga 
+GT: menggunakannya secara optimal dalam konteks ini
+PR: mengonakasa s kala di mal su ariawan yang e ngandalan kon seng lainan
+saya 
+GT: ingin mengangkat
+PR: i an menan iar
+satu 
+GT: studi kasus kecil yang
+PR: situ mi k ji an an
+sedang 
+GT: saya kembangkan bersama tim yaitu expense monitoring bot untuk pelaku umkm bot
+PR: arai kemlan kan ersama im ya tura sen see aliang bualu meny pauna u tela auan ka yan dinan teng sua
+ini bekerja melalui 
+GT: platform telegram
+PR: memwa ni peneraidam
+dan 
+GT: memungkinkan pengguna mencatat pengeluaran
+PR: memengegilakan tngunalai a tat pen elaran
+harian mereka 
+INS: dangan muda sanya melalui plala se tidak edis isa senga ya memiala daleram kanarinan agiaja ma kan banyak dataram di baan easi emuda di a la eolemaarasa awa bai krakan kaitor vituryan cukobsaralahanan na menara ulai urasi uada in bu ta kiniya mewaran an faielauan t yan tan ga tu kehnata tan ttomatis tersi m pan di ula saraysi yang terrila beng elalai isa snia tidak disa dari aan bisai akses ala kembali kaa sa ia ale di meri bisaaan kan to
+dengan 
+GT: mudah hanya melalui ponsel kita sengaja memilih telegram karena ringan tidak memakan banyak data dan relatif mudah digunakan oleh masyarakat awam fitur-fiturnya cukup sederhana namun efektif: ada input
+PR: vitor ini ka miberlara yanlisa memba u sela a yan
+untuk 
+GT: jenis pengeluaran jumlah uang dan tanggal data akan otomatis tersimpan di google spreadsheet yang terhubung melalui apps script dan bisa diakses kembali kapan saja oleh pemilik usaha dengan fitur ini kami berharap bisa membantu pelaku umkm untuk memiliki habit pencatatan yang
+PR: memili ahe li pejara pal ang
+baik karena 
+GT: kebanyakan masalah dalam bisnis kecil itu bukan karena penjualannya kurang tetapi karena pengelolaan keuangannya tidak rapi selain itu kami juga
+PR: jitakebanyaganasaladalam bisesteni i du isan kana penjualan ya ura an i li ta ti ka na pengelalan kuangan ya di dara a mari slan ittu abahha seami dia
+sedang 
+GT: menjajaki kemungkinan
+PR: menayaja mein mengian
+integrasi 
+GT: dengan fitur-fitur tambahan seperti laporan mingguan otomatis visualisasi data pengeluaran serta pengingat harian agar pengguna terbiasa mencatat secara rutin ini adalah langkah kecil namun bisa menjadi
+PR: daran ikerter a belng a ba han se di la oran insuan atoma di s aan menaesualia a si dasa men maran ya sarte penia arian agaa buna teriasa mencag e sejararu din ora ia adalan lan ang mail amundisa yaya di
+awal dari 
+GT: digitalisasi yang lebih besar
+PR: di isaisa ya yang lebi a ia kerjia di akai
+dari 
+GT: sisi business model solusi seperti
+PR: si siisnis duade gangan sesuolusi sepe dinga i ni bisa di kemban n meng jijilayanan berbasi sunri mi yang bisa ta awal menggero bua bisur dasa bise gela kan secara grai sela ana mun untuk viterta bah ka kersi laporan kuanmanota asi n to a grasi denga layanan membayaran engguena bianan baya biayalan ganan bulan an menyang sa a terijan kelai busi n utaan ni sekarang maya a bah hasu na saliai maain pelimen tasi dera lo gi
+ini 
+INS: ekerjisa be da pepaa evisiensi dan pengambiran ini tan sarsisai a merubian denan ada yada a yan ere kamdangan ta i orbenkelasi usa
+bisa 
+GT: dikembangkan
+PR: mela u kan an alisi sadaennan memperimaa mbalai a ela lu banya e menghabiskan uan se persatara aiayabal a nal na ssda suai diri sataka perlu men ian biaya teraan tulu menja tau manam bah secarosilaran yan lebi la kyan yang kita ba ini kita ya adelai danan data daraisaniasi yang desisien mi sesuatu yang dulu han aa tuanya bisa di la i kan aleh prusian meisa ulenan slombal ma ha aose saran bisara dilakukan mewa gan oleh waru kelontong lilai sa mengedadiselama mereka di bekali dengan tulsi yan kenan atau menejir kita ten ru didak bisa meu pakan peran pemerin ta ka arus ma a dari in sidirausi peni diaan
+menjadi 
+GT: layanan berbasis freemium di tahap awal semua fitur dasar bisa digunakan secara gratis namun untuk fitur tambahan seperti laporan keuangan otomatis atau integrasi dengan layanan pembayaran pengguna bisa membayar biaya langganan bulanan yang sangat terjangkau sekarang saya ingin membahas bagaimana implementasi teknologi ini bisa berdampak pada efisiensi dan pengambilan keputusan bisnis dengan adanya data yang terekam dengan rapi pelaku usaha bisa melakukan analisis sederhana: di mana mereka terlalu banyak menghabiskan uang? apakah biaya operasionalnya sudah sesuai? apakah perlu menekan biaya tertentu atau menambah stok barang yang lebih laku? ini yang kita sebut dengan data-driven decision making sesuatu yang dulu mungkin hanya bisa dilakukan oleh perusahaan besar dengan software mahal sekarang bisa dilakukan bahkan oleh warung kelontong di desa selama mereka dibekali dengan tools yang tepat kita tentu tidak bisa melupakan peran pemerintah dan institusi pendidikan dalam mendorong
+PR: jalam men dora an
+transformasi 
+GT: digital ini
+PR: di ital in a bang bili
+harus ada 
+GT: kolaborasi
+PR: kola berasi
+antara 
+GT: sektor publik
+PR: sen tor pa lik
+dan 
+GT: swasta serta perguruan tinggi untuk memberikan edukasi akses teknologi dan pendampingan kepada pelaku umkm di universitas pertamina misalnya banyak sekali potensi yang
+PR: uasa uarta parkaruan n an bis tuk memberi an iduasn eticaarsea ologi a kudalan dam bingan kekadaaa kusren mu aan iyawan memiliki pemakaman yang sama di uni virda meran iaari iaran dala memang guna nya ai osensi osi i ang
+bisa 
+GT: dikembangkan oleh mahasiswa terutama yang
+PR: di dikba ean siiall hasiaseanya tentang aduraruta ma atuan
+berasal dari 
+GT: jurusan teknik informatika sistem informasi dan juga manajemen bisnis kita
+PR: durusante ni informa tiata i si m yaermasi mn beriga giga mendejimn bi seri sikap bena ita menoron bla borasi aya da sang rusan un do adang buuasi soluu yainya rcaa an diang
+bisa 
+GT: mendorong kolaborasi lintas jurusan untuk membuat solusi nyata yang bisa diterapkan di lapangan seperti program pengabdian kepada masyarakat yang telah diikuti sebelumnya penutup
+PR: iaala kan di layanan adasa erti progr pena bian a pada maslanka hubungaan tulah di kudi seai yarinan datan di ma penutuk
+dari saya 
+GT: transformasi digital bukan soal menjadi canggih tetapi tentang bagaimana teknologi
+PR: trans pormasi dinudrala saa so alala bigai kean a yang penu tabiang denagran bai mana te nologi
+bisa 
+GT: membuat bisnis menjadi lebih efektif efisien
+PR: meng
+dan 
+GT: mudah diakses
+PR: bisuliaan unmunja di bai bi efe dir sanga bisa fesien dan bidah di akse seta ber ugang tita harus adulain digaari hala se der sana dan gitarus hanya menjela ar tidaridata yan
+kita 
+GT: harus mulai dari hal-hal sederhana dan terus belajar dari data
+PR: mia i an la sepeti
+yang kita 
+GT: miliki karena seperti yang kita tahu dalam
+PR: sahu tidabdaa
+dunia bisnis 
+GT: saat ini
+PR: saatbudai a yang se
+data 
+GT: is the new oil siapa yang menguasai data
+PR: didai sadi deni u oyol ia di bersiapa yan menguasaidan da kecil
+dan 
+GT: tahu bagaimana memanfaatkannya dialah yang akan bertahan terima kasih atas perhatiannya jika
+PR: tah ubagia nana man a tean nya ia dia yang akar eriaha apa yang bisa ri ma kasi masa a raasidian meatesi bersa ka
+ada pertanyaan 
+GT: atau diskusi saya persilakan salam
+PR: kita jidikan tahun di sebiasi a sebai saa basiladia an ye peru bu di ssala tetapi juga berm
+
+
+Correct words: 65 / 728 (8.93%)

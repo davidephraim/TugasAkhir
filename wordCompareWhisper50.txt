@@ -1,0 +1,785 @@
+=== Speaker: MaleVoice1 | Scenario: whisper | Noise dB: -50.0 | SPL: 35 | WER: 0.6236 ===
+
+GT: selamat pagi rekan-rekan
+PR: semapagi r an terkan
+semua 
+GT: pertama-tama saya ingin mengucapkan terima kasih atas waktu
+PR: pertamatama seinginmengucakan trimakasi ataswatu
+dan kesempatan yang diberikan 
+GT: kepada saya
+PR: kepadasaya
+untuk membawakan 
+GT: presentasi
+PR: presemtasi
+pada hari ini 
+GT: pada rapat kali ini saya akan membahas
+PR: padarapaali ini sayaamambahas
+mengenai 
+GT: transformasi digital
+PR: transormasi disital
+dalam 
+GT: konteks bisnis skala kecil dan menengah atau
+PR: konteksbisnis kalakatil dan menangah ata
+yang kita kenal dengan sebutan 
+GT: umkm
+PR: um an
+seperti yang 
+GT: kita ketahui
+PR: kitaketakui
+bersama 
+GT: saat ini
+PR: sat in
+dunia sedang 
+GT: bergerak sangat cepat teknologi
+PR: bergra sanmacepa tknologi
+berkembang 
+GT: hampir setiap hari
+PR: kambir setiapari
+dan perubahan tersebut 
+GT: membawa dampak yang
+PR: membawadam pakiang
+sangat 
+GT: besar terhadap
+PR: besa terhada
+cara bisnis 
+GT: dijalankan
+PR: dijalan kan
+bahkan 
+GT: beberapa sektor bisnis mengalami disruption karena tidak mampu beradaptasi dengan cepat
+PR: beberapasekporbisnis mengala mi dis rapsion kaenatidak mam pu malerkadatasi dingan cepa
+terhadap 
+GT: perubahan
+PR: perubakan
+yang dibawa 
+GT: oleh digitalisasi berbicara
+PR: ole di gi talisasi berbisara
+tentang 
+GT: transformasi digital ada beberapa hal utama
+PR: tran formasi di jital adabuberapahalutama
+yang ingin saya 
+GT: soroti hari
+PR: solo di kari
+ini pertama mengenai 
+GT: digital presence
+PR: dijital presens
+saat ini 
+GT: tidak cukup
+PR: didakcukup
+hanya 
+GT: mengandalkan toko fisik umkm harus
+PR: mengandal kan tokovisi umkam haru s
+memiliki 
+GT: online presence
+PR: an elain presan
+yang kuat 
+GT: baik melalui
+PR: bai kmelalui
+media sosial 
+GT: marketplace
+PR: market ples
+maupun 
+GT: website resmi mengapa ini penting? karena konsumen zaman sekarang lebih banyak
+PR: epsa trasn engapa inipen tin karenakonsu men saman sakaran lebihba nyak
+mencari 
+GT: informasi
+PR: in formasi
+atau melakukan pembelian melalui 
+GT: platform digital jika bisnis kita tidak
+PR: plat form di jital jitabisnis ditadidak
+hadir di 
+GT: dunia digital
+PR: duniai di cital
+maka 
+GT: kita akan
+PR: kitaakan
+tertinggal kedua 
+GT: kita perlu bicara
+PR: kitaperlu bicaa
+soal penggunaan 
+GT: tools
+PR: tuls
+berbasis 
+GT: teknologi dalam operasional
+PR: tekmologi dala oprional
+bisnis misalnya 
+GT: penggunaan
+PR: penggunan
+aplikasi untuk pencatatan 
+GT: keuangan inventory management crm (customer relationship management) sampai dengan otomatisasi
+PR: ke uangan intan tori menecman siar m kastemarlsinsi meneciman sam pa dengan otomasi
+pemasaran atau 
+GT: marketing automation tools
+PR: markating automesion tul
+seperti ini memungkinkan kita 
+GT: untuk menjalankan
+PR: untukmenjalan kan
+bisnis dengan 
+GT: lebih efisien data-driven dan scalable namun ada tantangan
+PR: le biheisian datatrivn dan selbal damun adatan tangan
+besar 
+GT: yang kita hadapi
+PR: an kitahadabi
+terutama untuk pelaku 
+GT: umkm di daerah
+PR: uam kaem di daera
+yaitu 
+GT: literasi digital
+PR: li trasi dicital
+banyak 
+GT: pelaku
+PR: laku
+usaha yang belum familiar dengan 
+GT: tools digital bahkan masih
+PR: tuls di jital bakan masi
+mengandalkan pencatatan 
+GT: manual
+PR: man ual
+menggunakan 
+GT: buku
+PR: bukku
+tulis oleh karena itu perlu adanya 
+GT: capacity building
+PR: keppebili di buldin
+atau pelatihan yang 
+GT: berkelanjutan
+PR: berklan jutan
+agar 
+GT: pelaku umkm tidak hanya mampu mengadopsi
+PR: pelakuu kaem didak hanyamam pu mengaro si
+teknologi 
+GT: tapi
+PR: tetapi
+juga menggunakannya secara optimal dalam 
+GT: konteks
+PR: konteksi
+ini saya ingin 
+GT: mengangkat satu studi kasus kecil
+PR: mengan kat satustu dikasuskesil
+yang sedang saya 
+GT: kembangkan bersama tim yaitu expense monitoring bot
+PR: kembangan bersamatin ya itu eksepen smuani torinba
+untuk pelaku 
+GT: umkm
+PR: uem kan
+bot ini bekerja melalui 
+GT: platform telegram dan memungkinkan pengguna
+PR: platfon tarekra dan memun kin kan penguna
+mencatat pengeluaran 
+GT: harian
+PR: arian
+mereka dengan mudah hanya melalui 
+GT: ponsel kita sengaja memilih telegram karena ringan tidak
+PR: onsal kitasengaja memili teregram karenaringan didak
+memakan banyak data dan relatif mudah digunakan oleh 
+GT: masyarakat
+PR: masarakat
+awam 
+GT: fitur-fiturnya
+PR: viturviturnya
+cukup sederhana 
+GT: namun efektif:
+PR: damun fetif
+ada input untuk 
+GT: jenis
+PR: denis
+pengeluaran 
+GT: jumlah
+PR: jumulah
+uang dan tanggal data akan 
+GT: otomatis tersimpan di google spreadsheet
+PR: etomatistersi mpan diugels presit
+yang terhubung melalui 
+GT: apps script dan bisa diakses
+PR: apskrit dan bisadi akses
+kembali kapan 
+GT: saja
+PR: saia
+oleh 
+GT: pemilik usaha dengan fitur ini kami berharap bisa membantu pelaku umkm
+PR: pemili kusaha dengan vitur i ni kamiberhara bisa memban tu plaku uam kaam
+untuk 
+GT: memiliki habit pencatatan
+PR: memiligi am bit pancatatan
+yang baik karena kebanyakan masalah dalam 
+GT: bisnis
+PR: bisni
+kecil itu bukan karena penjualannya 
+GT: kurang
+PR: kuran
+tetapi 
+GT: karena pengelolaan
+PR: karma pengelolakan
+keuangannya 
+GT: tidak rapi
+PR: didarati
+selain itu 
+GT: kami juga sedang
+PR: amijuga sedan
+menjajaki 
+GT: kemungkinan
+PR: kemung ginan
+integrasi dengan 
+GT: fitur-fitur tambahan seperti
+PR: viturvitrtambahan seperdi
+laporan 
+GT: mingguan otomatis visualisasi
+PR: mingkuan otmatis isualisasi
+data pengeluaran 
+GT: serta
+PR: srta
+pengingat harian agar pengguna terbiasa 
+GT: mencatat
+PR: menjatat
+secara 
+GT: rutin ini adalah langkah kecil namun bisa menjadi awal
+PR: rudin ini ada lah langgah keci damun bisa menjadiawal
+dari 
+GT: digitalisasi yang lebih besar
+PR: di gi talisasi yang lebibsar
+dari sisi 
+GT: business
+PR: bisnis
+model 
+GT: solusi seperti ini bisa
+PR: solusiseperti ini isa
+dikembangkan menjadi layanan 
+GT: berbasis freemium di tahap
+PR: berpasis frimium ditaha
+awal 
+GT: semua fitur dasar
+PR: semo viturdasar
+bisa digunakan 
+GT: secara gratis
+PR: sejara kradis
+namun 
+GT: untuk fitur tambahan seperti laporan keuangan
+PR: untuvi torkambahan sepertilauoran ke uangan
+otomatis atau integrasi dengan layanan pembayaran pengguna bisa membayar 
+GT: biaya langganan
+PR: biayaa pengganan
+bulanan yang 
+GT: sangat terjangkau sekarang saya
+PR: anlattercangkal sekaran sa ya
+ingin 
+GT: membahas bagaimana implementasi
+PR: membahasebagiamana impermen tasi
+teknologi ini bisa berdampak pada 
+GT: efisiensi dan pengambilan
+PR: evisiensi dan pengam bilan
+keputusan bisnis dengan 
+GT: adanya
+PR: ada nya
+data yang 
+GT: terekam dengan rapi pelaku usaha bisa melakukan analisis sederhana:
+PR: terakam dengenapi pelakuusaha bisamelakukan analisi sederhana
+di mana mereka terlalu banyak menghabiskan 
+GT: uang?
+PR: uang
+apakah biaya 
+GT: operasionalnya
+PR: orasionalnya
+sudah 
+GT: sesuai?
+PR: sesuai
+apakah perlu menekan biaya 
+GT: tertentu
+PR: tertantuk
+atau menambah 
+GT: stok barang yang lebih laku? ini yang kita sebut dengan data-driven decision making
+PR: stokbarang yang lebilaki in yang titasebutdengan datatri van disisen mekin
+sesuatu yang dulu mungkin hanya 
+GT: bisa dilakukan oleh perusahaan besar dengan software
+PR: bisadilakukan ole ptrsan besa dengan so uen
+mahal 
+GT: sekarang
+PR: sekara
+bisa dilakukan bahkan oleh 
+GT: warung kelontong di desa
+PR: kuarun keluon to di dasa
+selama mereka 
+GT: dibekali dengan tools yang
+PR: di bekali dengan tul yan
+tepat 
+GT: kita tentu tidak bisa melupakan
+PR: tetentutidak bisa melu pakan
+peran pemerintah dan 
+GT: institusi
+PR: insdidusi
+pendidikan 
+GT: dalam
+PR: dala
+mendorong transformasi 
+GT: digital ini harus
+PR: di ital in arus
+ada 
+GT: kolaborasi antara sektor publik dan swasta serta
+PR: kelaborasi antarasektor publ dan sastat sarta
+perguruan 
+GT: tinggi
+PR: tingi
+untuk 
+GT: memberikan edukasi akses teknologi dan pendampingan
+PR: memrikan idukasi asesteknologi dan pendam pingan
+kepada 
+GT: pelaku umkm
+PR: elaku uen kan
+di universitas pertamina misalnya banyak sekali potensi yang bisa 
+GT: dikembangkan oleh mahasiswa terutama
+PR: dikembang kan olen masisua erutama
+yang berasal dari jurusan 
+GT: teknik
+PR: tekni
+informatika 
+GT: sistem
+PR: sistam
+informasi dan 
+GT: juga manajemen
+PR: jugamana jmen
+bisnis kita bisa mendorong 
+GT: kolaborasi
+PR: kelaborasi
+lintas jurusan untuk 
+GT: membuat solusi nyata yang bisa diterapkan di lapangan
+PR: mem buat solusinyata yang bisa ditrakan dilapangan
+seperti 
+GT: program pengabdian kepada masyarakat
+PR: rogram pengadian kepadamaiarakat
+yang telah 
+GT: diikuti sebelumnya penutup dari saya transformasi digital
+PR: dikudi selumnyapenutup darisaya rans formasi dijital
+bukan soal menjadi 
+GT: canggih tetapi tentang bagaimana
+PR: cangi tapi dan tang bagai mana
+teknologi bisa 
+GT: membuat bisnis
+PR: mem bguabisnis
+menjadi 
+GT: lebih efektif efisien
+PR: lebi esetif isien
+dan mudah 
+GT: diakses kita harus
+PR: di akses kitaharus
+mulai dari 
+GT: hal-hal sederhana
+PR: kalkhal sedarhana
+dan terus 
+GT: belajar
+PR: belajiar
+dari data yang 
+GT: kita miliki
+PR: kitamiliki
+karena 
+GT: seperti yang kita tahu
+PR: sepertiang ditatau
+dalam dunia 
+GT: bisnis saat
+PR: bisnisat
+ini data 
+INS: dri
+is 
+GT: the new
+PR: di di
+oil siapa yang 
+GT: menguasai
+PR: mengua sai
+data dan 
+GT: tahu bagaimana memanfaatkannya
+PR: tau bagiman nememan takannya
+dialah 
+GT: yang akan
+PR: yan aan
+bertahan 
+GT: terima kasih atas perhatiannya
+PR: rimarasi aaseradianya
+jika ada pertanyaan atau diskusi saya persilakan salam 
+
+Correct words: 311 / 728 (42.72%)
+
+=== Speaker: MaleVoice2 | Scenario: whisper | Noise dB: -50.0 | SPL: 35 | WER: 0.5562 ===
+
+GT: selamat
+PR: selama
+pagi 
+GT: rekan-rekan
+PR: rakankan
+semua 
+GT: pertama-tama saya
+PR: pertama tama sa
+ingin 
+GT: mengucapkan
+PR: mengucakan
+terima 
+GT: kasih
+PR: kasi
+atas waktu 
+GT: dan kesempatan yang diberikan kepada
+PR: deng kesempai engiberikan kepera
+saya untuk membawakan presentasi pada hari ini pada 
+GT: rapat
+PR: dapat
+kali ini saya akan membahas mengenai 
+GT: transformasi digital
+PR: tran s permasi di gital
+dalam konteks bisnis 
+GT: skala
+PR: kala
+kecil dan 
+GT: menengah
+PR: menenga
+atau yang kita kenal dengan sebutan 
+GT: umkm
+PR: om kaem
+seperti yang kita ketahui bersama saat ini dunia sedang 
+GT: bergerak sangat cepat teknologi berkembang hampir setiap
+PR: begera sangacepat knologi berkembakha ben secap
+hari dan perubahan tersebut membawa 
+GT: dampak yang
+PR: dam pakiang
+sangat besar 
+GT: terhadap cara bisnis dijalankan
+PR: terkhadacara bisnis di jalan kan
+bahkan 
+GT: beberapa sektor
+PR: beberapaseknar
+bisnis mengalami 
+GT: disruption
+PR: di strafsion
+karena 
+GT: tidak mampu beradaptasi
+PR: ti dak ma pu bra tasi
+dengan cepat 
+GT: terhadap
+PR: tarhadap
+perubahan yang 
+GT: dibawa
+PR: di bawa
+oleh 
+GT: digitalisasi
+PR: di gi talisasi
+berbicara tentang transformasi 
+GT: digital
+PR: di gital
+ada beberapa hal utama yang ingin 
+GT: saya soroti
+PR: saisarati
+hari ini pertama mengenai 
+GT: digital presence
+PR: di gital prisens
+saat ini tidak cukup 
+GT: hanya mengandalkan toko fisik umkm
+PR: hanyang mengenalkan tokovisi kuaem kam
+harus memiliki 
+GT: online presence
+PR: n an erisen
+yang kuat baik melalui 
+DEL: media
+sosial 
+GT: marketplace maupun website resmi
+PR: me dia market des mau pu asetresm
+mengapa ini 
+GT: penting? karena konsumen zaman sekarang lebih
+PR: pentin kaenakonsumen za mensekara lebi
+banyak mencari informasi 
+GT: atau melakukan
+PR: au melapkan
+pembelian melalui 
+GT: platform digital
+PR: plat fon bdi dial
+jika bisnis kita tidak hadir di 
+GT: dunia
+PR: duna
+digital maka kita 
+GT: akan
+PR: kan
+tertinggal kedua kita perlu 
+GT: bicara soal penggunaan tools berbasis teknologi
+PR: bicarasal penggnan tuls berbasi steknologi
+dalam 
+GT: operasional
+PR: opersional
+bisnis misalnya 
+GT: penggunaan aplikasi untuk pencatatan
+PR: pengunaan alikasi untuk pencata tan
+keuangan 
+GT: inventory management crm (customer relationship management)
+PR: intentori menegimen sia rm ataukasta mar realasiensimmenejemen
+sampai dengan 
+GT: otomatisasi
+PR: otematisasi
+pemasaran 
+GT: atau marketing automation tools
+PR: ataman keting atumesien tu
+seperti ini memungkinkan kita untuk 
+GT: menjalankan bisnis dengan lebih efisien data-driven dan scalable
+PR: menjalan kan bis nis dengan lebi evisien daaadrivan dan skalebel
+namun 
+GT: ada tantangan
+PR: adatantangan
+besar yang kita hadapi terutama untuk pelaku 
+GT: umkm di daerah
+PR: u yam kean di daera
+yaitu 
+GT: literasi digital banyak pelaku usaha yang belum
+PR: diterasi di kital banya elakuusaha yang belam
+familiar dengan 
+GT: tools digital
+PR: tuls di gital
+bahkan 
+GT: masih mengandalkan pencatatan manual menggunakan buku tulis
+PR: masi mengan dalkan pecatatan man nual munggunakan bukutulis
+oleh karena 
+GT: itu perlu
+PR: i prnu
+adanya 
+GT: capacity building
+PR: kepasi ti bualding
+atau 
+GT: pelatihan
+PR: plati han
+yang berkelanjutan 
+GT: agar
+PR: angar
+pelaku 
+GT: umkm
+PR: uem kaem
+tidak 
+GT: hanya mampu
+PR: hanyan mam pu
+mengadopsi teknologi tapi juga 
+GT: menggunakannya
+PR: menggunakan nya
+secara optimal dalam konteks ini saya ingin mengangkat satu studi 
+DEL: kasus
+kecil yang sedang 
+GT: saya kembangkan
+PR: sai kembankan
+bersama tim yaitu 
+GT: expense monitoring bot
+PR: ekspens menetuarin bat
+untuk pelaku 
+GT: umkm bot ini bekerja
+PR: oem kaem buat ini beperja
+melalui 
+GT: platform telegram dan memungkinkan pengguna
+PR: plat fontregram dan memungkin kan penggun nan
+mencatat 
+GT: pengeluaran
+PR: pengelaran
+harian mereka 
+GT: dengan mudah
+PR: dangan muda
+hanya melalui 
+GT: ponsel
+PR: pnsel
+kita sengaja memilih telegram 
+GT: karena ringan
+PR: kan naringan
+tidak 
+GT: memakan
+PR: makan
+banyak data dan 
+GT: relatif mudah
+PR: erlati muda
+digunakan oleh 
+GT: masyarakat
+PR: masiara kat
+awam 
+GT: fitur-fiturnya
+PR: kitorviturnyang
+cukup 
+GT: sederhana namun efektif:
+PR: serar han nah na mu efektif
+ada input untuk 
+GT: jenis pengeluaran jumlah
+PR: inis pengolaran jumela
+uang dan tanggal 
+GT: data akan otomatis tersimpan di google spreadsheet
+PR: datakan teotomati stersimpan di gogal sretsit
+yang terhubung melalui 
+GT: apps script dan bisa diakses kembali
+PR: abskrip dan bise di akses kapembali
+kapan 
+GT: saja
+PR: sa ja
+oleh 
+GT: pemilik usaha dengan fitur ini kami
+PR: pemeli kusara dengan vitor ini ka mi
+berharap bisa membantu 
+GT: pelaku umkm untuk memiliki habit
+PR: pelakuaim ka yem untuk memili ki hebit
+pencatatan yang baik karena kebanyakan masalah dalam bisnis kecil itu bukan karena 
+GT: penjualannya kurang tetapi
+PR: penjualan nya kura ttapi
+karena pengelolaan 
+GT: keuangannya tidak rapi selain
+PR: kuangan nya tidarati slan
+itu kami juga sedang menjajaki 
+GT: kemungkinan
+PR: kemengkilan
+integrasi dengan 
+GT: fitur-fitur tambahan
+PR: kiter vitortam bahan
+seperti 
+GT: laporan
+PR: laoran
+mingguan otomatis 
+GT: visualisasi data pengeluaran serta pengingat
+PR: bsualisasi da tapenguaran sarte penginya
+harian agar pengguna terbiasa 
+GT: mencatat
+PR: mencatet
+secara rutin ini adalah 
+GT: langkah
+PR: laka
+kecil 
+GT: namun bisa
+PR: namunbisa
+menjadi awal dari 
+GT: digitalisasi
+PR: di gitalisasi
+yang lebih besar dari sisi 
+GT: business model solusi
+PR: bisnis mode sesuolusi
+seperti ini bisa dikembangkan menjadi layanan 
+GT: berbasis freemium di tahap
+PR: berbasi s fremiu dita
+awal semua 
+GT: fitur dasar
+PR: vitordasa
+bisa digunakan secara gratis namun untuk 
+GT: fitur tambahan
+PR: viterta bahan
+seperti laporan 
+GT: keuangan
+PR: keluangan
+otomatis atau integrasi dengan layanan pembayaran pengguna bisa 
+GT: membayar biaya langganan
+PR: membaya biayalangganan
+bulanan yang 
+GT: sangat terjangkau
+PR: sanga terjang kal
+sekarang saya ingin membahas 
+GT: bagaimana implementasi
+PR: bagai mana inpelementasi
+teknologi ini bisa 
+GT: berdampak pada
+PR: berdam perpada
+efisiensi dan pengambilan 
+GT: keputusan bisnis dengan adanya data yang terekam
+PR: kebutusan bisnis dengan adanyadata yang teren kam
+dengan rapi 
+GT: pelaku usaha bisa melakukan analisis sederhana:
+PR: pelakuusa bisa melaku kan an alai si sedar khana
+di mana mereka 
+GT: terlalu
+PR: telalu
+banyak menghabiskan 
+GT: uang?
+PR: uang
+apakah 
+GT: biaya operasionalnya sudah sesuai?
+PR: diaya presional nye sudas sesuai
+apakah 
+GT: perlu
+PR: parlu
+menekan biaya 
+GT: tertentu
+PR: tertontu
+atau 
+GT: menambah stok
+PR: menam bah tok
+barang yang lebih 
+GT: laku?
+PR: laku
+ini yang kita sebut 
+GT: dengan data-driven decision making
+PR: dangan data draivan desision miki
+sesuatu yang dulu mungkin hanya bisa dilakukan oleh perusahaan besar 
+GT: dengan software
+PR: dangan sover
+mahal 
+INS: sai
+sekarang bisa dilakukan bahkan oleh warung kelontong 
+GT: di desa
+PR: didesa
+selama mereka 
+GT: dibekali dengan tools
+PR: di bekali dengan tuls
+yang tepat 
+GT: kita tentu
+PR: kitatentu
+tidak bisa melupakan peran 
+GT: pemerintah dan
+PR: pemerinta dari
+institusi pendidikan dalam mendorong transformasi 
+GT: digital
+PR: di gital
+ini harus ada 
+GT: kolaborasi
+PR: kola berasi
+antara sektor 
+GT: publik dan swasta serta perguruan
+PR: pablik dan suasta sartapargeruan
+tinggi untuk memberikan edukasi akses teknologi dan 
+GT: pendampingan
+PR: pendam bingan
+kepada pelaku 
+GT: umkm di universitas
+PR: uem kaem di univitesitas
+pertamina misalnya banyak sekali potensi yang bisa dikembangkan oleh 
+GT: mahasiswa
+PR: maha siswa
+terutama yang berasal dari jurusan teknik informatika sistem informasi dan juga 
+GT: manajemen bisnis kita bisa
+PR: menejemen bisnis kita
+mendorong 
+GT: kolaborasi
+PR: kelaborasi
+lintas 
+GT: jurusan untuk membuat solusi nyata yang bisa diterapkan
+PR: ji rusan untu me buat solusinyata yang bisa ditarakan
+di lapangan 
+GT: seperti program pengabdian kepada masyarakat
+PR: sepertipror enga dian pada masierakat
+yang telah 
+GT: diikuti sebelumnya
+PR: di ikuti seblumnya
+penutup dari saya 
+GT: transformasi digital
+PR: teran spormasi digita
+bukan soal 
+GT: menjadi canggih tetapi tentang bagaimana
+PR: menjadicanggi tetakitentang bagai mana
+teknologi bisa 
+GT: membuat
+PR: mem buat
+bisnis menjadi lebih efektif 
+GT: efisien
+PR: efesien
+dan mudah 
+GT: diakses
+PR: di akses
+kita harus mulai dari 
+GT: hal-hal sederhana dan terus
+PR: hal hal sederkana dan terrus
+belajar dari data yang kita miliki 
+GT: karena
+PR: kae na
+seperti yang kita tahu dalam dunia bisnis saat ini data is 
+GT: the new
+PR: deniu
+oil siapa yang menguasai data dan 
+GT: tahu bagaimana memanfaatkannya dialah
+PR: ta hu bagai mana meman faat cannya dia
+yang akan bertahan terima 
+GT: kasih
+PR: kasi
+atas 
+GT: perhatiannya jika
+PR: perha tiannya gita
+ada pertanyaan 
+GT: atau
+PR: atahu
+diskusi saya persilakan salam 
+
+Correct words: 404 / 728 (55.49%)
