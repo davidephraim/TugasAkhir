@@ -1,0 +1,21 @@
+Presentasi ini membahas tentang transformasi digital dalam konteks bisnis kecil dan menengah (UMKM).
+
+**Pokok pembahasan:**
+
+* **Kehadiran online adalah kunci**: UMKM harus memiliki kehadiran digital kuat melalui media sosial, website, dan platform online lainnya karena konsumen semakin banyak mencari informasi dan berbelanja secara online. 
+* **Adopsi teknologi**: Penggunaan aplikasi untuk mencatat keuangan, manajemen stok, pemasaran otomatis, dan lain-lain dapat meningkatkan efisiensi dan skala bisnis.
+* **Tantangan literasi digital**: Banyak pelaku UMKM yang belum familiar dengan teknologi digital.  
+* **Studi kasus**: Pengembangan aplikasi pencatatan pengeluaran harian melalui Telegram untuk UMKM sebagai solusi praktis dan mudah digunakan. 
+
+**Manfaat transformasi digital:**
+
+* Efisiensi operasional bisnis.
+* Pengambilan keputusan berbasis data (data-driven decision).
+* Peningkatan penjualan dan profitabilitas.
+
+**Kesimpulan**:
+
+Transformasi digital bukan hanya tentang teknologi, tetapi juga bagaimana teknologi dapat membantu UMKM menjadi lebih efektif, efisien, dan mudah diakses. Kehadiran online, adopsi teknologi yang tepat, serta literasi digital adalah kunci keberhasilan dalam era digital ini. 
+
+
+Pemerintah, institusi pendidikan, dan sektor swasta perlu berkolaborasi untuk mendukung transformasi digital UMKM melalui edukasi, akses teknologi, dan pendampingan.

@@ -1,0 +1,26 @@
+## Ringkasan Presentasi Transfmormasi Digital dalam Bisnis UMKM
+
+Presentasi ini membahas pentingnya transformasi digital bagi bisnis Usaha Mikro, Kecil dan Menengah (UMKM) di tengah perkembangan teknologi yang pesat. 
+
+**Berikut poin-poin penting dari presentasi:**
+
+* **Kehadiran Digital**: UMKM perlu memiliki kehadiran kuat di dunia digital melalui media sosial, marketplace, dan platform online lainnya karena konsumen modern lebih cenderung mencari informasi dan melakukan pembelian secara online.
+* **Penggunaan Teknologi**:  UMKM harus memanfaatkan teknologi berbasis digital dalam operasional bisnis seperti aplikasi untuk pencatatan keuangan, customer relationship management (CRM), otomatisasi pemasaran, dll. Hal ini memungkinkan bisnis menjadi lebih efisien dan efektif.
+* **Pengembangan Digital Literacy**: Banyak UMKM yang belum familiar dengan teknologi dan masih mengandalkan sistem manual.  Oleh karena itu, diperlukan program pelatihan dan pengembangan digital literacy bagi pelaku UMKM agar mereka dapat memanfaatkan teknologi secara optimal.
+
+**Contoh Kasus:** 
+
+Pembangun aplikasi "e-Samani Tori" untuk membantu UMKM mencatat pengeluaran dengan mudah melalui platform Telegram yang sederhana dan mudah digunakan. Aplikasi ini dilengkapi fitur input pengeluaran, otomatisasi pencatatan, dan laporan mingguan. Ke depannya, akan ditambahkan fitur visualisasi data dan pengingat harian.
+
+**Dampak Transformasi Digital:**
+
+* Meningkatkan efisiensi bisnis
+* Membantu pengambilan keputusan yang lebih efektif dengan analisis data 
+* Menemukan peluang baru
+
+ **Kesimpulan:**
+
+Transformasi digital bukan hanya tentang perubahan teknologi, tetapi tentang bagaimana teknologi dapat membantu membuat bisnis UMKM lebih efisien, mudah diakses dan sukses. 
+
+
+**Pentingnya kolaborasi antara pemerintah, institusi pendidikan, dan sektor swasta untuk mendorong transformasi digital UMKM melalui pelatihan, pengembangan teknologi, dan dukungan program.**  

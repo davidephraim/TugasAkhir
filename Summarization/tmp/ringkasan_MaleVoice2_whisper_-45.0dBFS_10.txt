@@ -1,0 +1,17 @@
+## Ringkasan Presentasi Transformasi Digital di Bisnis Kecil dan Menengah (UKM)
+
+Presentasi ini membahas pentingnya transformasi digital bagi UKM dalam konteks bisnis saat ini. Berikut poin-poin utama:
+
+* **Kehadiran Digital:** Memiliki *online presence* melalui media sosial, website resmi, dll., sangat penting karena konsumen semakin banyak mencari informasi dan melakukan pembelian secara online.
+* **Teknologi Operasional:** Penggunaan aplikasi untuk manajemen keuangan, inventaris, penjualan, dan pemasaran membantu menjalankan bisnis lebih efisien, efektif, dan scalable. 
+
+* **Tantangan Literasi Digital:** Banyak pelaku UKM yang belum familiar dengan teknologi digital, bahkan masih mengandalkan sistem manual.  
+
+* **Studi Kasus:** Presentasi mengangkat contoh studi kasus aplikasi Telegram untuk mencatat pengeluaran harian UKM dengan mudah dan terpusat di Google Spreadsheet. Aplikasi ini diharapkan membantu meningkatkan pengelolaan keuangan UKM yang seringkali menjadi masalah utama.
+
+* **Efisiensi dan Pengambilan Keputusan:** Data yang dikumpulkan melalui teknologi dapat digunakan untuk analisis dan pengambilan keputusan bisnis yang lebih efektif, seperti mengidentifikasi produk yang laku, menekan biaya, atau memaksimalkan profit.
+* **Kolaborasi Sektor Publik-Swasta:**  Diperlukan kolaborasi antara pemerintah, institusi pendidikan, dan sektor swasta dalam memberikan edukasi, akses teknologi, dan pendampingan bagi pelaku UKM untuk mendorong transformasi digital.
+
+**Kesimpulan:** Transformasi digital bukan hanya tentang teknologi canggih, tetapi bagaimana teknologi dapat digunakan untuk membuat bisnis lebih efektif, efisien, dan mudah diakses. 
+
+
